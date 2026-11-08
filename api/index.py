@@ -1,0 +1,1 @@
+from bookmyseat.wsgi import application as app
