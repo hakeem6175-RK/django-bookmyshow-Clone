@@ -1,1 +1,2 @@
-from bookmyseat.wsgi import application as app
+from bookmyseat.wsgi import application
+app = application
